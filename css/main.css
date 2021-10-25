@@ -9,3 +9,14 @@ body {
 .ms-container > h1 {
     font-size: 3rem;
 }
+
+ul {
+    list-style: none;
+}
+
+.square {
+    width: calc((100% / 7) - 20px);
+    margin: 10px;
+    height: 80px;
+    background-color: orange;
+}
