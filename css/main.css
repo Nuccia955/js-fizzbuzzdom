@@ -1,5 +1,7 @@
+/* GENERAL STYLES */
 body {
     background-color: #183a4a;
+    min-width: 650px;
 }
 
 .ms-container {
@@ -17,6 +19,22 @@ ul {
 .square {
     width: calc((100% / 7) - 20px);
     margin: 10px;
-    height: 80px;
-    background-color: orange;
+    height: 85px;
+}
+
+/* backgrounds */
+.bg-acquamarine {
+    background-color: #61d2a4;
+}
+
+.bg-blue {
+    background-color: #3d88ae;
+}
+
+.bg-ocra {
+    background-color: #f9d277;
+}
+
+.bg-red {
+    background-color: #de5471;
 }
