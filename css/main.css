@@ -1,0 +1,11 @@
+body {
+    background-color: #183a4a;
+}
+
+.ms-container {
+    margin: 0 auto;
+}
+
+.ms-container > h1 {
+    font-size: 3rem;
+}
